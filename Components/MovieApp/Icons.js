@@ -1,0 +1,1 @@
+import {HeartIcon} from 'react-native-heroicons/outline';
